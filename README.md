@@ -13,4 +13,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/liyihero/count.svg
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liyihero&theme=dark&layout=compact)
 
