@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me:1084811235@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/liyihero?spm=1000.2115.3001.5343)
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/liyihero?spm=1000.2115.3001.5343](https://blog.csdn.net/hero010605?type=blog))
 
 ![](https://github-readme-stats.vercel.app/api?username=liyihero&show_icons=true&theme=transparent)
 
