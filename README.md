@@ -1,8 +1,8 @@
 ### Hi there 👋,I'm liyihero.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 🌱 I’m currently learning everything I like, constantly improving myself, and pursuing the life I love.
+- 💬 Ask me about anything related to JavaScript/Vue.
 - 📫 How to reach me:1084811235@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/hero010605?type=blog)
 
